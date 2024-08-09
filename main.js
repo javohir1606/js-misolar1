@@ -42,7 +42,7 @@
 // console.log(str("oddly"));
 
 
+
+
 // Uygi-vazifa
 // 1 - misol
-let n = 10;
-let m = 5;
