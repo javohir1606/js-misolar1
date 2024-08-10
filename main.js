@@ -46,3 +46,5 @@
 
 // Uygi-vazifa
 // 1 - misol
+let k = 10;
+let n = 5;
